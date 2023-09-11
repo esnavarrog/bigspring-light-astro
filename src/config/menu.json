@@ -40,14 +40,14 @@
       ]
     },
     {
-      "name": "Suporte",
+      "name": "Soporte",
       "menu": [
         {
           "text": "FAQ",
           "url": "/faq"
         },
         {
-          "text": "Politica de privacidad",
+          "text": "Política de privacidad",
           "url": "/privacy-policy"
         },
         {
