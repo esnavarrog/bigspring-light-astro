@@ -1,12 +1,10 @@
 ---
-title: "Contact Us"
+title: "Contáctanos"
 draft: false
-info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-  contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+info:
+  title: Quieres que te contactemos?
+  description: En LynxLabs, estamos aquí para escucharte y ayudarte. Nos encantaría conocer más sobre tus necesidades y cómo podemos ser de ayuda. Contáctanos hoy mismo y comencemos a trabajar juntos para alcanzar tus metas. Tu éxito es nuestro objetivo.
+  contacts:
+    - "Mail: [contacto@despachospymes.cl](mailto:contacto@despachospymes.cl)"
 ---
 

@@ -1,74 +1,57 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
+      "name": "Servicios",
+      "url": "/services"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "Nosotros",
+      "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Empresa",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Inicio",
+          "url": "/"
         },
         {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "Servicios",
+          "url": "/services"
+        },
+        {
+          "text": "Nosotros",
+          "url": "/about"
+        },
+        {
+          "text": "Contacto",
+          "url": "/contact"
         }
       ]
     },
     {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
-        }
-      ]
-    },
-    {
-      "name": "Support",
+      "name": "Suporte",
       "menu": [
         {
           "text": "FAQ",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Politica de privacidad",
           "url": "/privacy-policy"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Term. y condiciones",
           "url": "/terms-conditions"
         }
       ]
