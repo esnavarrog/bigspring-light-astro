@@ -98,9 +98,24 @@ const faq_page = defineCollection({
     })).optional()
   })
 })
+//about page schema
+const about_page = defineCollection({
+  schema: z.object({
+    title: z.string().optional(),
+    description: z.string().optional(),
+    info: z.object({
+      title: z.string(),
+      description: z.string(),
+    }).optional(),
+    abouts: z.array(z.object({
+      title: z.string(),
+      description: z.string(),
+    })).optional()
+  })
+})
 
-//pricing page schema
-const pricing_page = defineCollection({
+//services page schema
+const services_page = defineCollection({
   schema: z.object({
     title: z.string().optional(),
     description: z.string().optional(),
@@ -146,6 +161,7 @@ export interface PageData {
 export const collections = {
   blog: postsCollection,
   pages: pagesCollection,
+  about: about_page,
   // homepage: homepage,
   // contact: contact_page,
   // faq: faq_page,
