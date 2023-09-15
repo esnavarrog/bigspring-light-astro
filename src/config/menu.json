@@ -38,23 +38,6 @@
           "url": "/contact"
         }
       ]
-    },
-    {
-      "name": "Soporte",
-      "menu": [
-        {
-          "text": "FAQ",
-          "url": "/faq"
-        },
-        {
-          "text": "Política de privacidad",
-          "url": "/privacy-policy"
-        },
-        {
-          "text": "Term. y condiciones",
-          "url": "/terms-conditions"
-        }
-      ]
     }
   ]
 }
